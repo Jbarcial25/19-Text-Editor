@@ -56,7 +56,7 @@ This application can be run using the deployed Heroku link. To run on your compu
 ![how-to gif](./demo/Untitled_%20Jun%2021%2C%202022%2011_42%20AM.gif)
 ## Contributors
 
-- Thank you to my tutor Chris Baird for helping me work through some file structure and install errors
+N/A
 
 ## License
 
